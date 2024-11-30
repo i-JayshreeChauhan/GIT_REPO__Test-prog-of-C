@@ -22,7 +22,12 @@ int main()
             else if(n%7==0) p=0;
             else p=1;
 
+
+        
     }
+
+
+
 
     if(p==1)printf("\n%d is a PRIME number",n);
     else printf("\n%d is NOT a PRIME number",n);

@@ -41,8 +41,6 @@ void checkMax_repeats(int *arr)
 
         }
 
-
-
     
     //check max value 
 

@@ -1,10 +1,11 @@
 #include<stdio.h>
 
-int i=5;
+
 
 int main()
 {
 
+        int i=5;
         i=5;
 
         printf("\n-------- Testing PRE & POST INCREMENT --------\n\n");

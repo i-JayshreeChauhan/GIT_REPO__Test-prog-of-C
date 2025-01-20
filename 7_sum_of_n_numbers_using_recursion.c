@@ -28,4 +28,6 @@ int sum(int n)
     int sum_of_n_minus_1 = sum(n-1);
     int totalsum = sum_of_n_minus_1 + n ;
 
+    return totalsum;
+
 }
